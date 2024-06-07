@@ -1,7 +1,7 @@
 # signup-form
 A simple, full page, sign-up form design, created with HTML and CSS. 
 
-[Live Preview](https://emmahare.github.io/signup-form/)  <<<<<
+[Live Preview](https://emmabeanshare.github.io/signup-form/)  <<<<<
 
 Mobile-responsive: ❌
 
